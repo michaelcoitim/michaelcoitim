@@ -10,3 +10,5 @@
 </div>
 
 
+
+![Snake animation](https://github.com/michaelcoitim/michaelcoitim/blob/output/github-contribution-grid-snake.svg)
