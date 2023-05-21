@@ -1,6 +1,6 @@
 ### Olá eu Sou Michael Cotim 🖐
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Michael+Coitim+Matheus+;Sou+apaixonado+por+Tecnologia;Sou+de+Cascavel,+PR;Eu+estudo+programação+Backend;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Michael+Coitim;Sou+apaixonado+por+Tecnologia;Sou+de+Cascavel,+PR;Eu+estudo+programação+Backend;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 
 
